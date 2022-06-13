@@ -1,0 +1,161 @@
+name = Nexus Theme
+description = Nexus Theme is a premium Drupal 7 theme. Developed by <a href="http://www.devsaran.com">Devsaran.com</a>.
+core = 7.x
+engine = phptemplate
+
+
+
+
+stylesheets[all][] = css/animate.css
+
+stylesheets[all][] = css/project/demo.css
+stylesheets[all][] = css/project/set1.css
+stylesheets[all][] = css/project/set2.css
+
+
+stylesheets[all][] = css/bootstrap.min.css
+stylesheets[all][] = css/flexslider.css
+stylesheets[all][] = style.css
+
+
+stylesheets[all][] = css/contact/demo.css
+stylesheets[all][] = css/contact/common.css
+stylesheets[all][] = css/contact/style7.css
+
+
+stylesheets[all][] = css/ionicons.css
+stylesheets[all][] = css/ionicons.min.css
+
+
+stylesheets[all][] = css/font-awesome.css
+stylesheets[all][] = css/font-awesome.min.css
+
+
+stylesheets[all][] = css/hover/component.css
+stylesheets[all][] = css/hover/default.css
+
+
+stylesheets[all][] = css/menu/componentextra.css
+
+
+
+
+scripts[] = js/wow.js
+
+
+scripts[] = js/menu/classie.js
+
+
+scripts[] = js/bootstrap.min.js
+scripts[] = js/superfish.js
+scripts[] = js/mobilemenu.js
+scripts[] = js/custom.js
+
+
+
+scripts[] = js/hover/component.js
+scripts[] = js/hover/modernizr.custom.js
+
+regions[sidebar_first]  = First Sidebar
+regions[header]         = Header
+
+regions[preface_first1]  = Preface First Event
+regions[preface_middle2] = Preface Middle Event
+regions[preface_last3]   = Preface last Event
+
+regions[preface_first_form]  = Preface First Form
+regions[preface_middle_form] = Preface Middle Form
+regions[preface_last_form]   = Preface last Form
+
+
+regions[preface_title_sucess]   = Preface Title Sucess
+
+regions[preface_title_services]   = Preface Title Service
+
+regions[preface_first_sucess]  = Preface First Sucess
+regions[preface_middle_sucess] = Preface Middle Sucess
+regions[preface_last_sucess]   = Preface Last Sucess
+
+regions[preface_title_solution]   = Preface Title Solution
+regions[preface_title_contactus]   = Preface Title ContactUs
+regions[preface_title_choice]   = Preface Title Choice
+
+
+regions[preface_first_solutions]  = Preface First Solutions
+regions[preface_middle_solutions] = Preface Middle Solutions
+regions[preface_last_solutions]   = Preface Last Solutions
+
+regions[topmenu] = topmenu
+
+
+regions[up-menu] = up-menu
+
+
+
+regions[preface_firstA]  = Preface First TitleA
+regions[preface_middleB] = Preface Middle TitleB
+regions[preface_lastC]   = Preface last TitleC
+
+regions[preface_first_client]  = Preface First Client
+regions[preface_middle_client] = Preface Middle Client
+regions[preface_half_client]   = Preface Half Client
+regions[preface_last_client]   = Preface Last Client
+
+regions[preface_first_us]  = Preface First Us
+regions[preface_middle_us] = Preface Middle Us
+regions[preface_last_us]   = Preface last Us
+
+regions[preface_first_provider]  = Preface First Provider
+regions[preface_middle_provider] = Preface Middle Provider
+regions[preface_last_provider]   = Preface last Provider
+
+regions[preface_first]  = Preface First
+regions[preface_middle] = Preface Middle
+regions[preface_half]   = Preface Half
+regions[preface_last]   = Preface Last
+
+regions[preface_first_choice]  = Preface First Choice
+regions[preface_middle_choice] = Preface Middle Choice
+regions[preface_half_choice]   = Preface Half Choice
+regions[preface_last_choice]   = Preface Last Choice
+
+
+
+regions[preface_first_team1]  = Preface First Team
+regions[preface_middle_team2] = Preface Middle Team
+regions[preface_last_team3]   = Preface last Team
+
+regions[content_top]    = Content Top
+regions[content]        = Content
+regions[help]           = Help
+regions[footer]         = Footer
+regions[footer_first]   = First Bottom
+regions[footer_second]  = Second Bottom
+regions[footer_third]   = Third Bottom
+regions[footer_fourth]  = Fourth Bottom
+features[] = logo
+features[] = name
+features[] = slogan
+features[] = node_user_picture
+features[] = comment_user_picture
+features[] = comment_user_verification
+features[] = favicon
+features[] = main_menu
+features[] = secondary_menu
+settings[slideshow_display]  = 1
+settings[breadcrumbs]  = 1
+settings[slide1_head]  = "Sample product"
+settings[slide2_head]  = "Sample service"
+settings[slide3_head]  = "Contact us"
+settings[slide1_desc]  = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt elit, sed do eiusmod tempor..."
+settings[slide2_desc]  = "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do Lorem ipsum dolor sit amet irure dolor in reprehenderit..."
+settings[slide3_desc]  = "Duis aute irure dolor in reprehenderit inLorem ipsum dolor sit amet, consectetur do Lorem ipsum dolor sit amet irure..."
+settings[slide1_url]  = "node/1"
+settings[slide2_url]  = "node/2"
+settings[slide3_url]  = "node/3"
+; Information added by drupal.org packaging script on 2013-09-08
+version = "7.x-1.3"
+core = "7.x"
+project = "nexus"
+datestamp = "1378634197"
+
